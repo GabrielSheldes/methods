@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|c:\\users\\tecnico\\desktop\\aula-15.04\\atividade\\atividade\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|solutionrelative:atividade\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|c:\\users\\tecnico\\desktop\\aula-15.04\\atividade\\atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|solutionrelative:atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|c:\\users\\tecnico\\desktop\\aula-15.04\\atividade\\atividade\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|solutionrelative:atividade\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|c:\\users\\tecnico\\desktop\\aula-15.04\\atividade\\atividade\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|solutionrelative:atividade\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|c:\\users\\tecnico\\desktop\\aula-15.04\\atividade\\atividade\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|solutionrelative:atividade\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|c:\\users\\tecnico\\desktop\\aula-15.04\\atividade\\atividade\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD9C9B-9DC3-4166-93C4-1675CF1CFEA8}|atividade\\atividade.csproj|solutionrelative:atividade\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\ClienteVip.cs",
+              "RelativeDocumentMoniker": "atividade\\ClienteVip.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\ClienteVip.cs*",
+              "RelativeToolTip": "atividade\\ClienteVip.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:56:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Cliente.cs",
+              "RelativeDocumentMoniker": "atividade\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Cliente.cs*",
+              "RelativeToolTip": "atividade\\Cliente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:54:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Gerente.cs",
+              "RelativeDocumentMoniker": "atividade\\Gerente.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Gerente.cs*",
+              "RelativeToolTip": "atividade\\Gerente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:53:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Funcionario.cs",
+              "RelativeDocumentMoniker": "atividade\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Funcionario.cs*",
+              "RelativeToolTip": "atividade\\Funcionario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:52:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Pessoa.cs",
+              "RelativeDocumentMoniker": "atividade\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Pessoa.cs*",
+              "RelativeToolTip": "atividade\\Pessoa.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:47:46.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Program.cs",
+              "RelativeDocumentMoniker": "atividade\\Program.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\aula-15.04\\atividade\\atividade\\Program.cs*",
+              "RelativeToolTip": "atividade\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:45:40.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
