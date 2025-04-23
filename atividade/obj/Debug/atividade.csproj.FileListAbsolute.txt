@@ -5,3 +5,7 @@ C:\Users\Tecnico\Desktop\aula-15.04\atividade\atividade\obj\Debug\atividade.cspr
 C:\Users\Tecnico\Desktop\aula-15.04\atividade\atividade\obj\Debug\atividade.csproj.CoreCompileInputs.cache
 C:\Users\Tecnico\Desktop\aula-15.04\atividade\atividade\obj\Debug\atividade.exe
 C:\Users\Tecnico\Desktop\aula-15.04\atividade\atividade\obj\Debug\atividade.pdb
+C:\Users\thais\Desktop\jef\methods\atividade\obj\Debug\atividade.csproj.AssemblyReference.cache
+C:\Users\thais\Desktop\jef\methods\atividade\obj\Debug\atividade.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\jef\methods\atividade\obj\Debug\atividade.exe
+C:\Users\thais\Desktop\jef\methods\atividade\obj\Debug\atividade.pdb

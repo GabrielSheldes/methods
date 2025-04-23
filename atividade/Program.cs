@@ -14,6 +14,7 @@ namespace atividade
             Pessoa pessoa = new Pessoa();
             pessoa.Nome = "Gabriel Clayton";
 
+            Pessoa.cadastrar();
             
         }
         
